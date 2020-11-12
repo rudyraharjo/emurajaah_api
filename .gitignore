@@ -1,0 +1,6 @@
+.idea/
+*.test
+.gcloudignore
+app-config.json
+app.yaml
+index.yaml
